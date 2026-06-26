@@ -7,3 +7,6 @@ yougile доска-https://ru.yougile.com/board/sqf0u2l33yo0
 
 редизайн evilink-https://sigmno.github.io/evilink/
 
+django и ларавел-https://drive.google.com/file/d/1ThwjkUCsjwtEnoLQyDArH7duX3GF9Ggo/view?usp=sharing
+
+численные методы-https://drive.google.com/drive/folders/1cyrubhLWMV-08av389gkPRRIrBKv8oaA?usp=sharing
