@@ -3,6 +3,8 @@ yougile доска-https://ru.yougile.com/board/sqf0u2l33yo0
 
 доки по практике-https://drive.google.com/drive/folders/1CTmWzkrxV3SPkuqXgba1zeyYv6YoD2JF?usp=sharing
 
+резюме-https://docs.google.com/document/d/1j7d_QwLaic9BkQEZVDQVqCrwmk2tuzmG/edit?usp=sharing&ouid=117578478796030573538&rtpof=true&sd=true
+
 сайт резюме-https://sigmno.github.io/resume/
 
 редизайн evilink-https://sigmno.github.io/evilink/
