@@ -12,3 +12,5 @@ django и ларавел-https://drive.google.com/file/d/1ThwjkUCsjwtEnoLQyDArH7
 численные методы-https://drive.google.com/drive/folders/1cyrubhLWMV-08av389gkPRRIrBKv8oaA?usp=sharing
 
 основы бережливого производства-https://docs.google.com/document/d/16WN2LRoT7yzuVQ0y5DYXBeVherXoo67cs5VtgYt5nG8/edit?usp=sharing
+
+соц активность-https://drive.google.com/drive/folders/17aIfbzNi0DbfXFqaCRHWcoHCljaHUR0S?usp=sharing
